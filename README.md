@@ -22,7 +22,7 @@ Turn-based strategy puzzle game I independently made (art, code, etc...) in 15 m
 4 player gamepad dungeon crawler. Co-lead alongside Sam Shakeshaft. I designed the Enemy AI system such that enemies could use the same weapons as players and this would affect their behaviour. I also implemented the entire audio system, including the audio that was used, and the major gamelooping features (ensuring the resetting of game state and singletons on death). Learnt to handle Git merges on a larger scale than I had before. Also using Unity C#.
 
 ### C++ Particle System  
-[![Particle System Video](https://img.youtube.com/vi/x7JMQEBYFqI/0.jpg)](https://www.youtube.com/watch?v=x7JMQEBYFqI)  
+[![Particle System Video](https://img.youtube.com/vi/LH8dyr6qCl8/0.jpg)](https://www.youtube.com/watch?v=LH8dyr6qCl8)  
 I completed the Sumo Digital C++ course using their one-line game engine. I then used the framework to create my own particle system, demonstrated in the video above. This was then reviewed by a developer at Sumo Digital who was able to provide valuable feedback about code efficiency improvements.
 
 ### 3rd Person Ledge-Climbing Character Controller
