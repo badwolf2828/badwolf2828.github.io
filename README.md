@@ -5,7 +5,7 @@ Hi! I'm Cameron, I'm a games developer and 2nd year computer science student at 
 ## Links 
 
 ### General
-- [Itch.io page](https://orange-flag.itch.io/)   
+- [Itch.io page](https://orange-flag.itch.io/)   - All online game jam entries
 - [Github](https://github.com/badwolf2828)     
 - [Youtube channel](https://www.youtube.com/@orangeflagstudio7841)
 
@@ -32,3 +32,7 @@ Solo project where I wrote created the logic for a 3rd person character controll
 ### Photography Weather App  
 [![3rd Person Controller Video](https://img.youtube.com/vi/3fuzVbWm56s/0.jpg)](https://www.youtube.com/watch?v=3fuzVbWm56s)  
 Team project for the Interaction Design course. I implemented custom element animations, filtering-by-condition (e.g. if you wanted to take a rainy photo, it would show you the nearest locations where it is currently raining) and a tab system such that the weather-data pages could easily be swapped between by clicking the add button and then clicking on tabs at the bottom. Used React-Native.
+
+### GeoTIFF to 3D Model - Flat Route Planner
+[![Route Planner Video](https://img.youtube.com/vi/OsSs4PIqN9k/0.jpg)](https://www.youtube.com/watch?v=OsSs4PIqN9k)  
+Created a GeoTIFF to 3D model generator. I then adapted the A* pathfinding algorithm to find the flattest routes, with a variable max-incline that the pathfinder will then try to adhere to. Taught me how to decode TIFF formatted data and the representation of 3D models at a lower level - something I have learnt much more about at university since.
