@@ -35,4 +35,8 @@ Team project for the Interaction Design course. I implemented custom element ani
 
 ### GeoTIFF to 3D Model - Flat Route Planner
 [![Route Planner Video](https://img.youtube.com/vi/OsSs4PIqN9k/0.jpg)](https://www.youtube.com/watch?v=OsSs4PIqN9k)  
-Created a GeoTIFF to 3D model generator. I then adapted the A* pathfinding algorithm to find the flattest routes, with a variable max-incline that the pathfinder will then try to adhere to. Taught me how to decode TIFF formatted data and the representation of 3D models at a lower level - something I have learnt much more about at university since.
+Created a GeoTIFF to 3D model generator. I then adapted the A* pathfinding algorithm to find the flattest routes, with a variable max-incline that the pathfinder will then try to adhere to. Taught me how to decode TIFF formatted data and the representation of 3D models at a lower level - something I have learnt much more about at university since.  
+
+### Procedurally Generated Boss Fights
+[![Procedural Boss Fights Video](https://img.youtube.com/vi/PD7mZSkJmu4/0.jpg)](https://www.youtube.com/watch?v=PD7mZSkJmu4)  
+Delegate function method of procedurally generating bosses. Movesets are generated at the start of the fight, each boss starts with a certain number of "points" which it then spends on moves or behaviours to add to its moveset, it also spends them on burst moves (e.g. dash three times in a row) and combinational moves (e.g. throw a bomb and jump). Upcoming moves affect the enemy's behaviour, such that if a ranged move is planned to happen next then the boss will try and create distance from the player.
