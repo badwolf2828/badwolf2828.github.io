@@ -9,6 +9,14 @@ Hi! I'm Cameron, I'm a games developer and 2nd year computer science student at 
 - [Github](https://github.com/badwolf2828)     
 - [YouTube channel](https://www.youtube.com/@orangeflagstudio7841)
 
+## Current Projects
+
+### 3rd Person Cover System - Unreal Engine C++
+
+Currently implemented multi-segment cover rails as well as full wrap-around cover (e.g. moving around a box) with appropriate character rotation per segment. Animation majority completed, just dealing with edge case rotations at the minute. Will implement standing cover and cover transitions, e.g. diving between different bits of cover. I'll upload a video walkthrough of the project soon once I've done some polishing on the cover system with crouched cover tarversal only. Would also be nice to make it into a bit more of a game! Obvious choice has to be some stealth game... Currently using a construction worker character so just need to come up with some post-apocalyptic context!
+
+(Updated 07/01/2025)
+
 ## Projects and Experience  
 
 ### Anchor Up
