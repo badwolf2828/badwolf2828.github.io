@@ -9,6 +9,12 @@ Hi! I'm Cameron, I'm a games developer and 2nd year computer science student at 
 - [Github](https://github.com/badwolf2828)     
 - [YouTube channel](https://www.youtube.com/@orangeflagstudio7841)
 
+### Cambridge University Game Devlopment Society
+
+- [Instagram](https://www.instagram.com/cudevs/)
+- [Society Page](https://www.cambridgesu.co.uk/organisation/cu-devs/)
+- [Cambridge Game Jam 2025](https://camgamejam.com/#about)    - Ran in partnership with CUCATs
+
 ## Current Projects
 
 ### 3rd Person Cover System - Unreal Engine C++ [Continuing]
