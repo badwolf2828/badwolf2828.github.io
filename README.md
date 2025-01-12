@@ -30,7 +30,6 @@ Turn-based strategy puzzle game I independently made (art, code, etc...) in 15 m
 ### 3rd Person Cover System
 [![Cover System Devlog](https://i.ytimg.com/vi/_-vrriGN1yU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&amp;rs=AOn4CLD0yNDLUkMqSf805ajFcvswFhhafg)](https://youtu.be/_-vrriGN1yU)  
 Using Unreal Engine 5 and C++, I implemented multi-segment cover rails as well as full wrap-around cover (e.g. moving around a box) with appropriate character rotation per segment. I controlled the cover animations using a blend-space within animation Blueprints, all other logic was wrote in C++. I wrote a custom component to make the creation process for new pieces of cover streamlined, new pieces could be created and dragged into the editor and would work straight away as demonstrated [here](https://www.linkedin.com/feed/update/urn:li:activity:7282817796915298304/).
-[Short Video Until Devlog](https://www.linkedin.com/feed/update/urn:li:activity:7282817796915298304/)  
 
 ### DNGN
 [![DNGN Trailer](https://img.youtube.com/vi/x7JMQEBYFqI/0.jpg)](https://www.youtube.com/watch?v=x7JMQEBYFqI)  
