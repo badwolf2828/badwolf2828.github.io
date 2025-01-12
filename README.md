@@ -28,7 +28,7 @@ Planning to implement standing cover and cover transitions, e.g. diving between 
 Turn-based strategy puzzle game I independently made (art, code, etc...) in 15 months between April 2020 and August 2021, made in Unity (using C#). Implemented the Steam Cloud required file structure system in the saving of player progress, and the use of Steam Achievements. Responded to feedback received in the [Jonas Plays Your Game](https://www.youtube.com/watch?v=Tjy0-ewKuYk&t=1s) video in which the game was playtestsed, specifically updating the graphics for player movement and adding a realtime tutorial.
 
 ### 3rd Person Cover System
-[![Cover System Devlog](https://i.ytimg.com/vi/_-vrriGN1yU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&amp;rs=AOn4CLD0yNDLUkMqSf805ajFcvswFhhafg)](https://youtu.be/_-vrriGN1yU)  
+[![Cover System Devlog](https://img.youtube.com/vi/_-vrriGN1yU/0.jpg)](https://youtu.be/_-vrriGN1yU)  
 Using Unreal Engine 5 and C++, I implemented multi-segment cover rails as well as full wrap-around cover (e.g. moving around a box) with appropriate character rotation per segment. I controlled the cover animations using a blend-space within animation Blueprints, all other logic was wrote in C++. I wrote a custom component to make the creation process for new pieces of cover streamlined, new pieces could be created and dragged into the editor and would work straight away as demonstrated [here](https://www.linkedin.com/feed/update/urn:li:activity:7282817796915298304/).
 
 ### DNGN
