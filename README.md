@@ -4,7 +4,7 @@ Hi! I'm Cameron, I'm a games developer and 2nd year computer science student at 
 
 ## Links 
 
-### General
+### Personal
 - [Itch.io page](https://orange-flag.itch.io/)   - 19 online game jam entries
 - [Github](https://github.com/badwolf2828)     
 - [YouTube channel](https://www.youtube.com/@orangeflagstudio7841)
