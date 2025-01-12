@@ -18,7 +18,7 @@ Planning to implement standing cover and cover transitions, e.g. diving between 
 [Devlog of work so far](https://youtu.be/_-vrriGN1yU) 
 
 
-(Updated 08/01/2025)
+(Updated 12/01/2025)
 
 ## Projects and Experience  
 
