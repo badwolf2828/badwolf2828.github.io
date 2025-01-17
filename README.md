@@ -15,11 +15,13 @@ Hi! I'm Cameron, I'm a games developer and 2nd year computer science student at 
 - [Society Page](https://www.cambridgesu.co.uk/organisation/cu-devs/)
 - [Cambridge Game Jam 2025](https://camgamejam.com/#about)    - Ran in partnership with CUCATs
 
+- [Article about the founding of the society](https://www.cai.cam.ac.uk/news/more-game-caians-set-game-dev-society)
+
 ## Current Projects
 
 ### 3rd Person Cover System - Unreal Engine C++ [Continuing]
 
-Planning to implement standing cover and cover transitions, e.g. diving between different bits of cover (and possible extension of the sam system for climbing?). Would also be nice to make it into a bit more of a game! Obvious choice has to be some stealth game... Currently using a construction worker character so just need to come up with some post-apocalyptic context!
+Planning to implement standing cover and cover transitions, e.g. diving between different bits of cover (and possible extension of the same system for climbing?). Would also be nice to make it into a bit more of a game! Obvious choice has to be some stealth game... Currently using a construction worker character so just need to come up with some post-apocalyptic context!
 [Short Video](https://www.linkedin.com/feed/update/urn:li:activity:7282817796915298304/) 
 [Devlog of work so far](https://youtu.be/_-vrriGN1yU) 
 
