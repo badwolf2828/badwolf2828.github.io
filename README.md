@@ -8,6 +8,7 @@ Hi! I'm Cameron, I'm a games developer and 2nd year computer science student at 
 - [Itch.io page](https://orange-flag.itch.io/)   - 19 online game jam entries
 - [Github](https://github.com/badwolf2828)     
 - [YouTube channel](https://www.youtube.com/@orangeflagstudio7841)
+- [LinkedIn](https://www.linkedin.com/in/cameron-fox-970216273/?trk=opento_sprofile_topcard)
 
 ### Cambridge University Game Devlopment Society
 
