@@ -21,12 +21,14 @@ Hi! I'm Cameron, I'm a games developer and 2nd year computer science student at 
 
 ### 3rd Person Cover System - Unreal Engine C++ [Continuing]
 
-Planning to implement standing cover and cover transitions, e.g. diving between different bits of cover (and possible extension of the same system for climbing?). Would also be nice to make it into a bit more of a game! Obvious choice has to be some stealth game... Currently using a construction worker character so just need to come up with some post-apocalyptic context!
+Standing bits of cover with transitions to/from crouch added. 
+
+Planning to add: cover transitions and vaulting (and possible extension of the same system for climbing?). Would also be nice to make it into a bit more of a game! Obvious choice has to be some stealth game... Currently using a construction worker character so just need to come up with some post-apocalyptic context!
 [Short Video](https://www.linkedin.com/feed/update/urn:li:activity:7282817796915298304/) 
 [Devlog of work so far](https://youtu.be/_-vrriGN1yU) 
 
 
-(Updated 12/01/2025)
+(Updated 05/02/2025)
 
 ## Projects and Experience  
 
