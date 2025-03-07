@@ -15,6 +15,7 @@ Hi! I'm Cameron, I'm a games developer and 2nd year computer science student at 
 - [Instagram](https://www.instagram.com/cudevs/)
 - [Society Page](https://www.cambridgesu.co.uk/organisation/cu-devs/)
 - [Cambridge Game Jam 2025](https://camgamejam.com/#about)    - Ran in partnership with CUCATs
+- [CU-Devs vs Gamma, University of Hokkaido Game Jam](https://itch.io/jam/gamma-vs-cudevs)    - Possibly the first international univeristy vs university game jam
 
 - [Article about the founding of the society](https://www.cai.cam.ac.uk/news/more-game-caians-set-game-dev-society)
 
@@ -28,8 +29,12 @@ Planning to add: cover transitions and vaulting (and possible extension of the s
 [Short Video](https://www.linkedin.com/feed/update/urn:li:activity:7282817796915298304/) 
 [Devlog of work so far](https://youtu.be/_-vrriGN1yU) 
 
+### First Person Puzzle Platformer - UEFN + Verse Group Project
 
-(Updated 05/02/2025)
+The group project I am working on at university is a global state setting puzzle game being made in Unreal Engine for Fortnite (therefore using Verse). I have overhauled the UI and wrote a custom inventory system so we can have our own items in the game, something not currently extensible within the default Fortnite inventory and UI.
+
+
+(Updated 07/03/2025)
 
 ## Projects and Experience  
 
