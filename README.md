@@ -29,12 +29,11 @@ Planning to add: cover transitions and vaulting (and possible extension of the s
 [Short Video](https://www.linkedin.com/feed/update/urn:li:activity:7282817796915298304/) 
 [Devlog of work so far](https://youtu.be/_-vrriGN1yU) 
 
-### First Person Puzzle Platformer - UEFN + Verse Group Project
+### First Person Puzzle Platformer - UEFN + Verse Group Project - Publishing
 
-The group project I am working on at university is a global state setting puzzle game being made in Unreal Engine for Fortnite (therefore using Verse). I have overhauled the UI and wrote a custom inventory system so we can have our own items in the game, something not currently extensible within the default Fortnite inventory and UI.
+Details of the project below - currently finalising this independently and will publish as an island in Fortnite.
 
-
-(Updated 07/03/2025)
+(Updated 23/03/2025)
 
 ## Projects and Experience  
 
@@ -42,6 +41,10 @@ The group project I am working on at university is a global state setting puzzle
 [![Anchor Up Trailer](https://img.youtube.com/vi/aNCixTz0mXI/0.jpg)](https://www.youtube.com/watch?v=aNCixTz0mXI)  
 [Anchor Up - Steam Page](https://store.steampowered.com/app/1384000/Anchor_Up/)  
 Turn-based strategy puzzle game I independently made (art, code, etc...) in 15 months between April 2020 and August 2021, made in Unity (using C#). Implemented the Steam Cloud required file structure system in the saving of player progress, and the use of Steam Achievements. Responded to feedback received in the [Jonas Plays Your Game](https://www.youtube.com/watch?v=Tjy0-ewKuYk&t=1s) video in which the game was playtestsed, specifically updating the graphics for player movement and adding a realtime tutorial.
+
+### First Person Puzzle Platformer for Epic Games - UEFN + Verse Group Project
+[![Checkpoints Video](https://img.youtube.com/vi/Hnj2AybfDQE/0.jpg)](https://www.youtube.com/watch?v=Hnj2AybfDQE&list=PLstyePOvf2d1kzhecdPdDhilNqGFle0Gk&index=5)  
+At university, I led a group project where the client was Epic Games' technical director James Golding. The project was to experiment with checkpoints in interesting ways and implement this using UEFN and Verse. I created the game concept, overhauled the UI and wrote a custom inventory system to allow us to have game-specific items, something not currently extensible within the default Fortnite inventory and UI, as well as having an unbounded inventory size. I also handled all manipulation of the system, from collecting new items to handling selection with player input. I also created the state-previewer script for the location and object-reference floppy disks, which was used for displaying, in-world, the stored data of the currently held disk - this was later extended by team mates for the temporal floppy disk. The project brief did not require a fully playable experience, however I felt it was important to create a playable game in order to demonstrate why such checkpoints could be fun! I therefore designed and implemented all playable levels, 3D modelled and textured all custom assets and created any custom 2D assets.
 
 ### 3rd Person Cover System
 [![Cover System Devlog](https://img.youtube.com/vi/_-vrriGN1yU/0.jpg)](https://youtu.be/_-vrriGN1yU)  
