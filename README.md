@@ -15,7 +15,7 @@ Hi! I'm Cameron, I'm a games developer and 2nd year computer science student at 
 - [Instagram](https://www.instagram.com/cudevs/)
 - [Society Page](https://www.cambridgesu.co.uk/organisation/cu-devs/)
 - [Cambridge Game Jam 2025](https://camgamejam.com/#about)    - Ran in partnership with CUCATs
-- [CU-Devs vs Gamma, University of Hokkaido Game Jam](https://itch.io/jam/gamma-vs-cudevs)    - Possibly the first international univeristy vs university game jam
+- [CU-Devs vs Gamma, University of Hokkaido Game Jam](https://itch.io/jam/gamma-vs-cudevs)    - Possibly the first UK-Japanese univeristy vs university game jam
 
 - [Article about the founding of the society](https://www.cai.cam.ac.uk/news/more-game-caians-set-game-dev-society)
 
