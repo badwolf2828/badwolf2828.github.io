@@ -60,7 +60,7 @@ Using Unreal Engine 5 and C++, I implemented multi-segment cover rails as well a
 ### DNGN
 #### Trailer:
 [![DNGN Trailer](https://img.youtube.com/vi/x7JMQEBYFqI/0.jpg)](https://www.youtube.com/watch?v=x7JMQEBYFqI)  
-[DNGN - Fair Build](https://cu-devs.itch.io/dngn-freshers-fair-ver)  
+[DNGN - Freshers Fair Build](https://cu-devs.itch.io/dngn-freshers-fair-ver)  
 4 player gamepad dungeon crawler. Co-lead alongside Sam Shakeshaft. I designed the Enemy AI system such that enemies could use the same weapons as players and this would affect their behaviour. I also implemented the entire audio system, including the audio that was used, and the major gamelooping features (ensuring the resetting of game state and singletons on death). Learnt to handle Git merges on a larger scale than I had before.
 
 ### C++ Particle System  
