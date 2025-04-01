@@ -31,6 +31,10 @@ Planning to add: cover transitions and vaulting (and possible extension of the s
 
 (Updated 01/04/2025)
 
+## Contact
+
+- Email: orange.flag.studio28@gmail.com
+
 ## Projects and Experience  
 
 ### Anchor Up
