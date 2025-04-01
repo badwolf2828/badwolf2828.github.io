@@ -16,8 +16,17 @@ Hi! I'm Cameron, I'm a games developer and 2nd year computer science student at 
 - [Society Page](https://www.cambridgesu.co.uk/organisation/cu-devs/)
 - [Cambridge Game Jam 2025](https://camgamejam.com/#about)    - Ran in partnership with CUCATs
 - [CU-Devs vs Gamma, University of Hokkaido Game Jam](https://itch.io/jam/gamma-vs-cudevs)    - Possibly the first UK-Japanese univeristy vs university game jam
-
 - [Article about the founding of the society](https://www.cai.cam.ac.uk/news/more-game-caians-set-game-dev-society)
+
+### Game Jams & Highlights
+
+I try and take part in as many game jams as possible - I started doing them in 2019 and have loved taking part in them since! I've so far submitted games for 19 of them. Below are some highlighted ones.
+
+#### Some highlighted ones:
+
+- [Trade Secrets](https://orange-flag.itch.io/trade-secrets) - Stealth-action / card-trading game with procedurally generated countries [CU-Devs vs Gamma 2/14]
+- [Phoenix Fall](https://orange-flag.itch.io/phoenix-fall) - Gliding-descent game with procedurally generated levels [BTP Jam #3 - 152/1023]
+- [Prisoners of Conscience](https://orange-flag.itch.io/prisoners-of-conscience) - Stylised stealth game with multiple endings depending on how the player behaves [Wowie Jam 3.0 200/972]
 
 ## Current Projects
 
@@ -68,10 +77,17 @@ Using Unreal Engine 5 and C++, I implemented multi-segment cover rails as well a
 [![Particle System Video](https://img.youtube.com/vi/LH8dyr6qCl8/0.jpg)](https://www.youtube.com/watch?v=LH8dyr6qCl8)  
 I completed the Sumo Digital C++ course using their one-line game engine. I then used the framework to create my own particle system, demonstrated in the video above. This was then reviewed by a developer at Sumo Digital who was able to provide valuable feedback about code efficiency improvements.
 
+### Trade Secrets - Post Jam Expanded
+#### Trailer:
+[![Trade Secrets Trailer](https://img.youtube.com/vi/eZCSa96XqB4/0.jpg)](https://youtu.be/eZCSa96XqB4)  
+[Game Page - Play in Browser](https://orange-flag.itch.io/trade-secrets) 
+
+For the Cambridge University Game Development Society (CU-Devs) vs the University of Hokkadio Game Development Society (Gamma) 48 hour game jam we hosted, the theme was *secrets*. My submission "Trade Secrets" was a stealth-action / card-trading game where the player infiltrates secret-service buildings to collect secrets and then trades these with other countries in order to have certain combinations of secrets which can be used to topple countries. The countries in each playthrough are procedurally generated and the player can face off against a custom set number of them. The levels are also semi-procedural with obstacles, secrets and their contents and the appearance of the room procedurally created from the information of the current country being visited. Some secrets allow players to visit other countries or trade with their leaders - the worth of secrets is also dynamic depending on who the trading-country is. The game placed 2nd in 3 categories including in "overall".
+
 ### 3rd Person Ledge-Climbing Character Controller
 #### Trailer:
 [![3rd Person Controller Video](https://img.youtube.com/vi/JsnFtw4QK7k/0.jpg)](https://www.youtube.com/watch?v=JsnFtw4QK7k)  
-Solo project where I created the logic for a 3rd person character controller and camera for a stealth game demo in Unity. The USP for the stealth game was the ability for the character to dash through walls, and also dash through enemies to kill them. The ledge climbing also implemented corner transitions and slope climbing.
+Solo project where I created a 3rd person character controller and camera for a stealth game demo in Unity. The USP for the stealth game was the ability for the character to dash through walls, and also dash through enemies to kill them. The ledge climbing also implemented corner transitions and slope climbing.
 
 ### Photography Weather App  
 #### Demonstration video:
