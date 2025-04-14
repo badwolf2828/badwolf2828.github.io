@@ -55,7 +55,7 @@ Turn-based strategy puzzle game I independently made (art, code, etc...) in 15 m
 ### First Person Puzzle Platformer for <ins>Epic Games</ins> - UEFN + Verse Group Project
 #### Trailer:
 [![Checkpoints Video](https://img.youtube.com/vi/vFUcptDM0K0/0.jpg)](https://www.youtube.com/watch?v=vFUcptDM0K0)  
-[Group project demonstration video for showcase](https://www.youtube.com/watch?v=Hnj2AybfDQE&list=PLstyePOvf2d1kzhecdPdDhilNqGFle0Gk&index=5)
+[Group project demonstration video for showcase](https://www.youtube.com/watch?v=foZVlAiNoqo&list=PLstyePOvf2d1HSBklMXWbdLd_4T2X8pIT&index=4)
 
 [Game page](https://www.fortnite.com/@checkpoints/0653-7115-6439?lang=en-US)
 
